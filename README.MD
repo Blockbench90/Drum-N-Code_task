@@ -1,3 +1,6 @@
+
+![about](https://github.com/Blockbench90/Drum-N-Code_task/blob/main/assets/PowerPlant.gif)
+
 # Logic
 
 		There is a set of Power Plants and a set of Households. Every Household can be
